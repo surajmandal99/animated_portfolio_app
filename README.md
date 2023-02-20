@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-#  Just a simple Portfolio App with the links ✔️
+#  Just a simple Portfolio App which is responsible for multi platform  with some color animation in the background 🖖
+#  Flutter Portfolio with awesome animation 📲
        
              👇
 
