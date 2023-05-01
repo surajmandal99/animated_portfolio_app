@@ -92,7 +92,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   child: const Padding(
                     padding: EdgeInsets.all(14.0),
                     child: Text(
-                      "Hey there 🖐️, freshman! Wassup? It's me Suraj Mandal from Nepal. Currently I'm pursuing my B-Tech in CSE at SVEC .",
+                      "Hey there 🖐️,It's me Suraj Mandal from Nepal. Currently I'm undergraduate at SVEC .",
                       maxLines: 4,
                       overflow: TextOverflow.ellipsis,
                       textAlign: TextAlign.center,
